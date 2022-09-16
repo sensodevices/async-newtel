@@ -5,7 +5,7 @@ description = "New-Tel simple async client based on httpx."
 license = "MIT"
 authors = ["Saltymakov Timofey <saltytimofey@gmail.com>"]
 readme = "README.md"
-repository = "https://github.com/sensodevices/async-sendgrid"
+repository = "https://github.com/sensodevices/async-newtel"
 keywords = ["newtel", "new-tel", "utilities", "async"]
 classifiers = [
     "Intended Audience :: Information Technology",
